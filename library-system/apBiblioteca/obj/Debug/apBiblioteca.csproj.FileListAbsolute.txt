@@ -1,0 +1,127 @@
+Y:\2-Exemplos\cap19\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.csprojResolveAssemblyReference.cache
+Y:\2-Exemplos\cap19\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.FrmLivros.resources
+Y:\2-Exemplos\cap19\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.FrmBiblioteca.resources
+Y:\2-Exemplos\cap19\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.Properties.Resources.resources
+Y:\2-Exemplos\cap19\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.csproj.GenerateResource.Cache
+Y:\2-Exemplos\cap19\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.csproj.CoreCompileInputs.cache
+Y:\2-Exemplos\cap19\apBiblioteca\apBiblioteca\bin\Debug\apBiblioteca.exe.config
+Y:\2-Exemplos\cap19\apBiblioteca\apBiblioteca\bin\Debug\apBiblioteca.exe
+Y:\2-Exemplos\cap19\apBiblioteca\apBiblioteca\bin\Debug\apBiblioteca.pdb
+Y:\2-Exemplos\cap19\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.exe
+Y:\2-Exemplos\cap19\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.pdb
+Y:\2-Exemplos\cap19\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.FrmLeitores.resources
+C:\Users\u19040\Desktop\apBiblioteca\apBiblioteca\bin\Debug\apBiblioteca.exe.config
+C:\Users\u19040\Desktop\apBiblioteca\apBiblioteca\bin\Debug\apBiblioteca.exe
+C:\Users\u19040\Desktop\apBiblioteca\apBiblioteca\bin\Debug\apBiblioteca.pdb
+C:\Users\u19040\Desktop\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.csprojResolveAssemblyReference.cache
+C:\Users\u19040\Desktop\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.FrmLeitores.resources
+C:\Users\u19040\Desktop\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.FrmLivros.resources
+C:\Users\u19040\Desktop\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.FrmBiblioteca.resources
+C:\Users\u19040\Desktop\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.Properties.Resources.resources
+C:\Users\u19040\Desktop\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.csproj.GenerateResource.Cache
+C:\Users\u19040\Desktop\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\u19040\Desktop\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.exe
+C:\Users\u19040\Desktop\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.csprojAssemblyReference.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.FrmLeitores.resources
+C:\Users\vinic\OneDrive\Área de Trabalho\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.FrmLivros.resources
+C:\Users\vinic\OneDrive\Área de Trabalho\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.FrmBiblioteca.resources
+C:\Users\vinic\OneDrive\Área de Trabalho\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.FrmTipos.resources
+C:\Users\vinic\OneDrive\Área de Trabalho\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.Properties.Resources.resources
+C:\Users\vinic\OneDrive\Área de Trabalho\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.csproj.GenerateResource.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\apBiblioteca\apBiblioteca\bin\Debug\apBiblioteca.exe.config
+C:\Users\vinic\OneDrive\Área de Trabalho\apBiblioteca\apBiblioteca\bin\Debug\apBiblioteca.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\apBiblioteca\apBiblioteca\bin\Debug\apBiblioteca.pdb
+Z:\WEB\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.csprojResolveAssemblyReference.cache
+Z:\WEB\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.FrmLeitores.resources
+Z:\WEB\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.FrmLivros.resources
+Z:\WEB\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.FrmBiblioteca.resources
+Z:\WEB\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.FrmTipos.resources
+Z:\WEB\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.Properties.Resources.resources
+Z:\WEB\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.csproj.GenerateResource.Cache
+Z:\WEB\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.csproj.CoreCompileInputs.cache
+Z:\WEB\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.exe
+Z:\WEB\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.pdb
+Z:\WEB\apBiblioteca\apBiblioteca\bin\Debug\apBiblioteca.exe.config
+Z:\WEB\apBiblioteca\apBiblioteca\bin\Debug\apBiblioteca.exe
+Z:\WEB\apBiblioteca\apBiblioteca\bin\Debug\apBiblioteca.pdb
+C:\Users\u19040\Desktop\Nova pasta\Nova pasta\apBiblioteca\apBiblioteca\bin\Debug\apBiblioteca.exe.config
+C:\Users\u19040\Desktop\Nova pasta\Nova pasta\apBiblioteca\apBiblioteca\bin\Debug\apBiblioteca.exe
+C:\Users\u19040\Desktop\Nova pasta\Nova pasta\apBiblioteca\apBiblioteca\bin\Debug\apBiblioteca.pdb
+C:\Users\u19040\Desktop\Nova pasta\Nova pasta\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.csprojResolveAssemblyReference.cache
+C:\Users\u19040\Desktop\Nova pasta\Nova pasta\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.FrmLeitores.resources
+C:\Users\u19040\Desktop\Nova pasta\Nova pasta\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.FrmLivros.resources
+C:\Users\u19040\Desktop\Nova pasta\Nova pasta\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.FrmBiblioteca.resources
+C:\Users\u19040\Desktop\Nova pasta\Nova pasta\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.FrmTipos.resources
+C:\Users\u19040\Desktop\Nova pasta\Nova pasta\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.Properties.Resources.resources
+C:\Users\u19040\Desktop\Nova pasta\Nova pasta\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.csproj.GenerateResource.Cache
+C:\Users\u19040\Desktop\Nova pasta\Nova pasta\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\u19040\Desktop\Nova pasta\Nova pasta\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.exe
+C:\Users\u19040\Desktop\Nova pasta\Nova pasta\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.pdb
+Z:\WEB\Tecnicas de Programação\Nova pasta\Nova pasta\apBiblioteca\apBiblioteca\bin\Debug\apBiblioteca.exe.config
+Z:\WEB\Tecnicas de Programação\Nova pasta\Nova pasta\apBiblioteca\apBiblioteca\bin\Debug\apBiblioteca.exe
+Z:\WEB\Tecnicas de Programação\Nova pasta\Nova pasta\apBiblioteca\apBiblioteca\bin\Debug\apBiblioteca.pdb
+Z:\WEB\Tecnicas de Programação\Nova pasta\Nova pasta\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.csprojResolveAssemblyReference.cache
+Z:\WEB\Tecnicas de Programação\Nova pasta\Nova pasta\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.FrmLeitores.resources
+Z:\WEB\Tecnicas de Programação\Nova pasta\Nova pasta\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.FrmLivros.resources
+Z:\WEB\Tecnicas de Programação\Nova pasta\Nova pasta\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.FrmBiblioteca.resources
+Z:\WEB\Tecnicas de Programação\Nova pasta\Nova pasta\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.FrmTipos.resources
+Z:\WEB\Tecnicas de Programação\Nova pasta\Nova pasta\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.Properties.Resources.resources
+Z:\WEB\Tecnicas de Programação\Nova pasta\Nova pasta\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.csproj.GenerateResource.Cache
+Z:\WEB\Tecnicas de Programação\Nova pasta\Nova pasta\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.csproj.CoreCompileInputs.cache
+Z:\WEB\Tecnicas de Programação\Nova pasta\Nova pasta\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.exe
+Z:\WEB\Tecnicas de Programação\Nova pasta\Nova pasta\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.pdb
+C:\Users\u19040\Desktop\19040_ProjetoIII\apBiblioteca\bin\Debug\apBiblioteca.exe.config
+C:\Users\u19040\Desktop\19040_ProjetoIII\apBiblioteca\bin\Debug\apBiblioteca.exe
+C:\Users\u19040\Desktop\19040_ProjetoIII\apBiblioteca\bin\Debug\apBiblioteca.pdb
+C:\Users\u19040\Desktop\19040_ProjetoIII\apBiblioteca\obj\Debug\apBiblioteca.csprojResolveAssemblyReference.cache
+C:\Users\u19040\Desktop\19040_ProjetoIII\apBiblioteca\obj\Debug\apBiblioteca.FrmLeitores.resources
+C:\Users\u19040\Desktop\19040_ProjetoIII\apBiblioteca\obj\Debug\apBiblioteca.FrmLivros.resources
+C:\Users\u19040\Desktop\19040_ProjetoIII\apBiblioteca\obj\Debug\apBiblioteca.FrmBiblioteca.resources
+C:\Users\u19040\Desktop\19040_ProjetoIII\apBiblioteca\obj\Debug\apBiblioteca.FrmTipos.resources
+C:\Users\u19040\Desktop\19040_ProjetoIII\apBiblioteca\obj\Debug\apBiblioteca.Properties.Resources.resources
+C:\Users\u19040\Desktop\19040_ProjetoIII\apBiblioteca\obj\Debug\apBiblioteca.csproj.GenerateResource.Cache
+C:\Users\u19040\Desktop\19040_ProjetoIII\apBiblioteca\obj\Debug\apBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\u19040\Desktop\19040_ProjetoIII\apBiblioteca\obj\Debug\apBiblioteca.exe
+C:\Users\u19040\Desktop\19040_ProjetoIII\apBiblioteca\obj\Debug\apBiblioteca.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\19040_ProjetoIII\apBiblioteca\bin\Debug\apBiblioteca.exe.config
+C:\Users\vinic\OneDrive\Área de Trabalho\19040_ProjetoIII\apBiblioteca\bin\Debug\apBiblioteca.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\19040_ProjetoIII\apBiblioteca\bin\Debug\apBiblioteca.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\19040_ProjetoIII\apBiblioteca\obj\Debug\apBiblioteca.csprojAssemblyReference.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\19040_ProjetoIII\apBiblioteca\obj\Debug\apBiblioteca.FrmLeitores.resources
+C:\Users\vinic\OneDrive\Área de Trabalho\19040_ProjetoIII\apBiblioteca\obj\Debug\apBiblioteca.FrmLivros.resources
+C:\Users\vinic\OneDrive\Área de Trabalho\19040_ProjetoIII\apBiblioteca\obj\Debug\apBiblioteca.FrmBiblioteca.resources
+C:\Users\vinic\OneDrive\Área de Trabalho\19040_ProjetoIII\apBiblioteca\obj\Debug\apBiblioteca.FrmTipos.resources
+C:\Users\vinic\OneDrive\Área de Trabalho\19040_ProjetoIII\apBiblioteca\obj\Debug\apBiblioteca.Properties.Resources.resources
+C:\Users\vinic\OneDrive\Área de Trabalho\19040_ProjetoIII\apBiblioteca\obj\Debug\apBiblioteca.csproj.GenerateResource.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\19040_ProjetoIII\apBiblioteca\obj\Debug\apBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\19040_ProjetoIII\apBiblioteca\obj\Debug\apBiblioteca.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\19040_ProjetoIII\apBiblioteca\obj\Debug\apBiblioteca.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\19040_ProjetoIII\apBiblioteca\obj\Debug\apBiblioteca.FrmLeitoresConsulta.resources
+C:\Users\vinic\OneDrive\Área de Trabalho\19040_ProjetoIII\apBiblioteca\obj\Debug\apBiblioteca.FrmLivrosConsulta.resources
+C:\Users\vinic\OneDrive\Área de Trabalho\19040_ProjetoIII\apBiblioteca\obj\Debug\apBiblioteca.FrmDevolucao.resources
+C:\Users\vinic\OneDrive\Área de Trabalho\19040_ProjetoIII\apBiblioteca\obj\Debug\apBiblioteca.FrmEmprestimo.resources
+C:\Users\u19040\Desktop\19040_ProjetoIII\apBiblioteca\obj\Debug\apBiblioteca.FrmDevolucao.resources
+C:\Users\u19040\Desktop\19040_ProjetoIII\apBiblioteca\obj\Debug\apBiblioteca.FrmEmprestimo.resources
+C:\Users\u19040\Desktop\19040_ProjetoIII\apBiblioteca\obj\Debug\apBiblioteca.FrmLeitoresConsulta.resources
+C:\Users\u19040\Desktop\19040_ProjetoIII\apBiblioteca\obj\Debug\apBiblioteca.FrmLivrosConsulta.resources
+D:\19040_ProjetoIII\apBiblioteca\bin\Debug\apBiblioteca.exe.config
+D:\19040_ProjetoIII\apBiblioteca\bin\Debug\apBiblioteca.exe
+D:\19040_ProjetoIII\apBiblioteca\bin\Debug\apBiblioteca.pdb
+D:\19040_ProjetoIII\apBiblioteca\obj\Debug\apBiblioteca.csprojAssemblyReference.cache
+D:\19040_ProjetoIII\apBiblioteca\obj\Debug\apBiblioteca.FrmDevolucao.resources
+D:\19040_ProjetoIII\apBiblioteca\obj\Debug\apBiblioteca.FrmEmprestimo.resources
+D:\19040_ProjetoIII\apBiblioteca\obj\Debug\apBiblioteca.FrmLeitores.resources
+D:\19040_ProjetoIII\apBiblioteca\obj\Debug\apBiblioteca.FrmLeitoresConsulta.resources
+D:\19040_ProjetoIII\apBiblioteca\obj\Debug\apBiblioteca.FrmLivros.resources
+D:\19040_ProjetoIII\apBiblioteca\obj\Debug\apBiblioteca.FrmBiblioteca.resources
+D:\19040_ProjetoIII\apBiblioteca\obj\Debug\apBiblioteca.FrmLivrosConsulta.resources
+D:\19040_ProjetoIII\apBiblioteca\obj\Debug\apBiblioteca.FrmTipos.resources
+D:\19040_ProjetoIII\apBiblioteca\obj\Debug\apBiblioteca.Properties.Resources.resources
+D:\19040_ProjetoIII\apBiblioteca\obj\Debug\apBiblioteca.csproj.GenerateResource.cache
+D:\19040_ProjetoIII\apBiblioteca\obj\Debug\apBiblioteca.csproj.CoreCompileInputs.cache
+D:\19040_ProjetoIII\apBiblioteca\obj\Debug\apBiblioteca.exe
+D:\19040_ProjetoIII\apBiblioteca\obj\Debug\apBiblioteca.pdb

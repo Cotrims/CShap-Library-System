@@ -1,0 +1,15 @@
+﻿01Quadrinhos          
+02Fantasia            
+03Drama               
+04Ficção              
+05Romance             
+06Aventura            
+07Biografia           
+08Culinária           
+09Matemática          
+10Horror              
+11Autoajuda           
+12Biologia            
+13Esotérico           
+41Geografia           
+56Juvenil             

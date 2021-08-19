@@ -1,0 +1,11 @@
+﻿000001Fausto Silva                       Rua do Projaque, nº87                             0500000010000002000000400000050000666
+000002Leyce Martins Cotrim               Rua Bellet, nº12                                  014442668
+000003Nativilson Da Saude                Praça Alerte Frazão, Nº60                         00
+000005Andre Antonio Francesco            Rua Olavo Santos, nº11                            010000009
+000009Vinícius Martins Cotrim            R. Benedito Matheus, Nº 338                       00
+101010João Paulo Alvez Venceslau de BritoRua São João Crisóstomo, 55                       00
+245896Gloria Maria                       R. Globo Reporter, Nº38                           00
+002892Milena Martins Cotrim              Guilherme Schmidt nº533 ap 53                     00
+110023Angela Binte                       Av. Emílio Bosco, Nº43                            00
+546976Ana Beatriz Ferreira de Jesus      R. Antonia de Souza Pereira                       011142536
+666666Illy Bordini da Silva              R. Santo Antônio de Posse, Nº56                   00
